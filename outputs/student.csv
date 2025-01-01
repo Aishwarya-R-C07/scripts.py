@@ -1,0 +1,6 @@
+id,firstname,lastname,dob,phonenumber,emailId,regNumber
+1,John,Doe,2000-05-15,1234567890,john.doe@example.com,REG2023001
+2,Jane,Smith,1999-10-22,9876543210,jane.smith@example.com,REG2023002
+3,Emily,Johnson,2001-03-18,5556667777,emily.johnson@example.com,REG2023003
+4,Michael,Brown,2000-12-05,4445556666,michael.brown@example.com,REG2023004
+5,Sarah,Williams,1998-07-25,3334445555,sarah.williams@example.com,REG2023005

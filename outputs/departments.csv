@@ -1,0 +1,9 @@
+departmentID,department_code,department_name,head_of_department,contact_number,email,established_year,location
+1,CSE01,Computer Science and Engineering,Prof. Anil Kumar,022-40012233,cse@college.edu,2001,"Block E, 3rd Floor"
+2,IT01,Information Technology,Dr. Priya Sharma,022-40012235,it@college.edu,2006,"Block G, 1st Floor"
+3,ME01,Mechanical Engineering,Prof. Sunil Verma,022-40012236,me@college.edu,1998,"Block H, 4th Floor"
+4,CIVIL01,Civil Engineering,Dr. Neeraj Gupta,022-40012237,civil@college.edu,1997,"Block I, 2nd Floor"
+5,CHEM01,Chemical Engineering,Dr. Rajesh Singh,022-40012238,chemical@college.edu,2004,"Block J, 3rd Floor"
+6,PHY01,Physics,Prof. Sushil Kumar,022-40012239,physics@college.edu,1999,"Block K, Ground Floor"
+7,BIO01,Biotechnology,Dr. Meera Kapoor,022-40012240,bio@college.edu,2007,"Block L, 2nd Floor"
+8,MATH01,Mathematics,Prof. Suman Varma,022-40012241,math@college.edu,2005,"Block A, 3rd Floor"
